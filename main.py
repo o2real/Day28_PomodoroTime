@@ -30,3 +30,4 @@ canvas.pack()
 
 window.mainloop()
 
+#이번만입니다~
