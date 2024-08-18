@@ -90,3 +90,5 @@ check_marks = Label(fg=GREEN, bg=YELLOW, font=30)
 check_marks.grid(column=1, row=3)
 
 window.mainloop()
+
+#이번만?
